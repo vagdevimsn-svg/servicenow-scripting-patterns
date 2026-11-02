@@ -1,0 +1,9 @@
+{
+  "name": "servicenow-scripting-patterns",
+  "version": "1.0.0",
+  "description": "Unit-tested ServiceNow server-side scripting patterns (Script Include, Business Rule, Scripted REST) using synthetic data",
+  "private": true,
+  "license": "MIT",
+  "scripts": { "test": "node --test test/*.test.js" },
+  "engines": { "node": ">=18" }
+}
